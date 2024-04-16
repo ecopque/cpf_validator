@@ -7,4 +7,6 @@ This program validates CPF (Cadastro de Pessoas Físicas) numbers according to t
 - Enter a CPF number when prompted.
 - The program will verify if the CPF is valid based on its mathematical structure.
 
-Note: This program is designed solely for validation purposes and does not generate or create false CPFs. It strictly adheres to the rules defined by the Federal Revenue of Brazil.
+## Note: 
+
+This program is designed solely for validation purposes and does not generate or create false CPFs. It strictly adheres to the rules defined by the Federal Revenue of Brazil.
