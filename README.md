@@ -10,5 +10,3 @@ This program validates CPF (Cadastro de Pessoas Físicas) numbers according to t
 ## Note: 
 
 This program is designed solely for validation purposes and does not generate or create false CPFs. It strictly adheres to the rules defined by the Federal Revenue of Brazil.
-
-https://linktr.ee/edsoncopque
