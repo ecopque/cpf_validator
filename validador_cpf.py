@@ -33,3 +33,5 @@ if cpf_usuario == novo_cpf:
    print(f'CPF: {cpf_usuario} é válido.')
 else:
    print(f'CPF: {cpf_usuario} é inválido.')
+
+# https://linktr.ee/edsoncopque
