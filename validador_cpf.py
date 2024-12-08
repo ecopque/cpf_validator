@@ -34,4 +34,4 @@ if cpf_usuario == novo_cpf:
 else:
    print(f'CPF: {cpf_usuario} é inválido.')
 
-# https://linktr.ee/edsoncopque
+# Edson Copque | https://linktr.ee/edsoncopque
